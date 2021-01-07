@@ -13,21 +13,21 @@
 
 | Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| [HTML 总结]() | [CSS 总结](#) | [JavaScript 总结](#) | [React 总结](#) | [Vue 总结](#) | [工具总结](#) |
+| [HTML 总结](https://github.com/leviding/One-Note-A-Day/blob/main/Front-End/HTML.md) | [CSS 总结](https://github.com/leviding/One-Note-A-Day/blob/main/Front-End/CSS.md) | [JavaScript 总结](https://github.com/leviding/One-Note-A-Day/blob/main/Front-End/JavaScript.md) | [React 总结](https://github.com/leviding/One-Note-A-Day/blob/main/Front-End/React.md) | [Vue 总结](https://github.com/leviding/One-Note-A-Day/blob/main/Front-End/Vue.md) | [工具总结](https://github.com/leviding/One-Note-A-Day/blob/main/Front-End/Tools.md) |
 
 
 ## 计算机基础
 
 | Ⅰ | Ⅱ |
 |:--:|:--:|
-| [算法总结](#) | [计算机网络总结](#) |
+| [算法总结](https://github.com/leviding/One-Note-A-Day/blob/main/Computer-Basics/Algorithm.md) | [计算机网络总结](https://github.com/leviding/One-Note-A-Day/blob/main/Computer-Basics/Computer-Networking.md) |
 
 
 ## 其他
 
 | Ⅰ |
 |:--:|
-| [面试记录总结](#) |
+| [面试记录总结](https://github.com/leviding/One-Note-A-Day/blob/main/Others/Interview.md) |
 
 
 ## 内推信息
