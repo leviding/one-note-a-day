@@ -6,7 +6,7 @@
 
 | 微信扫码关注官方公众号，订阅参与每日一题 |
 |-|
-| <img src="https://user-images.githubusercontent.com/26959437/103859917-d672f600-50f5-11eb-9cd5-fb059ec15eb8.png" width="500px;" /> |
+| <img src="https://user-images.githubusercontent.com/26959437/120764353-a61b7080-c54a-11eb-8a79-75177c342b45.png" width="500px;" /> |
 
 
 ## 前端
