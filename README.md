@@ -32,7 +32,7 @@
 
 ## 内推信息
 
-1. 微信搜索 **`编程每日一题`** 或 [扫二维码](https://user-images.githubusercontent.com/26959437/103859917-d672f600-50f5-11eb-9cd5-fb059ec15eb8.png) 关注公众号，订阅最新内推信息；
+1. 微信搜索 **`编程每日一题`** 或 [扫二维码](https://user-images.githubusercontent.com/26959437/120764353-a61b7080-c54a-11eb-8a79-75177c342b45.png) 关注公众号，订阅最新内推信息；
 2. 加微信 **`imleviding`** 或 [扫二维码](https://user-images.githubusercontent.com/26959437/103900476-ce857700-5132-11eb-878f-2d7a68bcfa37.jpg)，验证信息填写 **`内推`** 即可加入内推互助群；
 3. 加微信 **`517010193`** 或 [扫二维码](https://user-images.githubusercontent.com/26959437/103900536-de9d5680-5132-11eb-8cb4-aeb32cbcbed9.jpg)，验证信息填写 **`招聘`** 即可联系我发布招聘信息。
 
