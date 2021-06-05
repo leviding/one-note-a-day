@@ -50,7 +50,7 @@
 
 | 微信扫码关注教程官方公众号，订阅最新教程和动态 |
 |-|
-| <img src="https://user-images.githubusercontent.com/26959437/103859492-184f6c80-50f5-11eb-8187-a94b4302403f.png" width="500px;" /> |
+| <img src="https://user-images.githubusercontent.com/26959437/120764347-a3b91680-c54a-11eb-9a15-31bb2596b0db.png" width="500px;" /> |
 
 - **在线阅读**：https://zh.javascript.info/
 - **GitHub 地址**：https://github.com/javascript-tutorial/zh.javascript.info
