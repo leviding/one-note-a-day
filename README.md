@@ -13,21 +13,21 @@
 
 | Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| [HTML 总结](https://github.com/leviding/One-Note-A-Day/blob/main/Front-End/HTML.md) | [CSS 总结](https://github.com/leviding/One-Note-A-Day/blob/main/Front-End/CSS.md) | [JavaScript 总结](https://github.com/leviding/One-Note-A-Day/blob/main/Front-End/JavaScript.md) | [React 总结](https://github.com/leviding/One-Note-A-Day/blob/main/Front-End/React.md) | [Vue 总结](https://github.com/leviding/One-Note-A-Day/blob/main/Front-End/Vue.md) | [工具总结](https://github.com/leviding/One-Note-A-Day/blob/main/Front-End/Tools.md) |
+| [HTML 总结](https://github.com/leviding/one-note-a-day/blob/main/front-end/html/index.md) | [CSS 总结](https://github.com/leviding/one-note-a-day/blob/main/front-end/css/index.md) | [JavaScript 总结](https://github.com/leviding/one-note-a-day/blob/main/front-end/javascript/index.md) | [React 总结](https://github.com/leviding/one-note-a-day/blob/main/front-end/react/index.md) | [Vue 总结](https://github.com/leviding/one-note-a-day/blob/main/front-end/vue/index.md) | [工具总结](https://github.com/leviding/one-note-a-day/blob/main/font-end/tool/index.md) |
 
 
 ## 计算机基础
 
 | Ⅰ | Ⅱ |
 |:--:|:--:|
-| [算法总结](https://github.com/leviding/One-Note-A-Day/blob/main/Computer-Basics/Algorithm.md) | [计算机网络总结](https://github.com/leviding/One-Note-A-Day/blob/main/Computer-Basics/Computer-Networking.md) |
+| [算法总结](https://github.com/leviding/one-note-a-day/blob/main/Computer-Basics/Algorithm.md) | [计算机网络总结](https://github.com/leviding/one-note-a-day/blob/main/Computer-Basics/Computer-Networking.md) |
 
 
 ## 其他
 
 | Ⅰ |
 |:--:|
-| [面试记录总结](https://github.com/leviding/One-Note-A-Day/blob/main/Others/Interview.md) |
+| [面试记录总结](https://github.com/leviding/one-note-a-day/blob/main/others/interview/index.md) |
 
 
 ## 内推信息
@@ -68,7 +68,6 @@
 ## 排版规范
 
 所有内容均按照 [中文文案排版指北](http://mazhuang.org/wiki/chinese-copywriting-guidelines/) 进行排版。
-
 
 ## License
 
