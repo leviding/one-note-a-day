@@ -13,21 +13,21 @@
 
 | Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| [HTML 总结](https://github.com/leviding/one-note-a-day/blob/main/front-end/html/index.md) | [CSS 总结](https://github.com/leviding/one-note-a-day/blob/main/front-end/css/index.md) | [JavaScript 总结](https://github.com/leviding/one-note-a-day/blob/main/front-end/javascript/index.md) | [React 总结](https://github.com/leviding/one-note-a-day/blob/main/front-end/react/index.md) | [Vue 总结](https://github.com/leviding/one-note-a-day/blob/main/front-end/vue/index.md) | [工具总结](https://github.com/leviding/one-note-a-day/blob/main/front-end/tool/index.md) |
+| [HTML 总结](./front-end/html/index.md) | [CSS 总结](./front-end/css/index.md) | [JavaScript 总结](./front-end/javascript/index.md) | [React 总结](./front-end/react/index.md) | [Vue 总结](./front-end/vue/index.md) | [工具总结](./front-end/tool/index.md) |
 
 
 ## 计算机基础
 
 | Ⅰ | Ⅱ |
 |:--:|:--:|
-| [算法总结](https://github.com/leviding/one-note-a-day/blob/main/computer-basics/algorithm/index.md) | [计算机网络总结](https://github.com/leviding/one-note-a-day/blob/main/computer-basics/computer-networking/index.md) |
+| [算法总结](./computer-basics/algorithm/index.md) | [计算机网络总结](./computer-basics/computer-networking/index.md) |
 
 
 ## 其他
 
 | Ⅰ |
 |:--:|
-| [面试记录总结](https://github.com/leviding/one-note-a-day/blob/main/others/interview/index.md) |
+| [面试记录总结](./others/interview/index.md) |
 
 
 ## 内推信息
