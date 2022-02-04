@@ -6,7 +6,7 @@
 
 | 微信扫码关注官方公众号，订阅参与每日一题 |
 |-|
-| <img src="https://user-images.githubusercontent.com/26959437/120764353-a61b7080-c54a-11eb-8a79-75177c342b45.png" width="300px;" /> |
+| <img src="https://user-images.githubusercontent.com/26959437/120764353-a61b7080-c54a-11eb-8a79-75177c342b45.png" width="400px;" /> |
 
 
 ## 前端
@@ -50,7 +50,7 @@
 
 | 微信扫码关注教程官方公众号，订阅最新教程和动态 |
 |-|
-| <img src="https://user-images.githubusercontent.com/26959437/120764347-a3b91680-c54a-11eb-9a15-31bb2596b0db.png" width="300px;" /> |
+| <img src="https://user-images.githubusercontent.com/26959437/120764347-a3b91680-c54a-11eb-9a15-31bb2596b0db.png" width="400px;" /> |
 
 - **在线阅读**：https://zh.javascript.info/
 - **GitHub 地址**：https://github.com/javascript-tutorial/zh.javascript.info
